@@ -105,6 +105,9 @@ Files
 	- qalsadi	; morphological analyzer
 	- spellcheck : spellchecking 
 	- tashaphyne : light stemmer used by morphological analyzer
+	in case of using python3 alongside with python2, you can install pip for both versions (sudo apt install python-pip)
+	then, use pip2 to install modules, eg: sudo pip2 install mysam-tagmanager (to install mysam project/module).
+	
 
 
 * [interfaces]
